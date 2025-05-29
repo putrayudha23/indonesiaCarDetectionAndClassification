@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+     CityCar     0.5429    0.4524    0.4935        42
+   Crossover     0.2593    0.3684    0.3043        19
+ DoubleCabin     0.7500    0.8571    0.8000        28
+   Hatchback     0.7000    0.3889    0.5000        36
+         MPV     0.6757    0.7042    0.6897        71
+      Pickup     0.9394    0.8857    0.9118        35
+         SUV     0.5781    0.6167    0.5968        60
+       Sedan     0.5455    0.6316    0.5854        38
+
+    accuracy                         0.6261       329
+   macro avg     0.6238    0.6131    0.6102       329
+weighted avg     0.6389    0.6261    0.6256       329

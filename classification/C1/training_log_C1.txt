@@ -1,0 +1,79 @@
+Epoch 1, Train Loss: 1.8920, Val Loss: 1.6252
+✅ Validation loss improved. Model saved.
+Epoch 2, Train Loss: 1.5017, Val Loss: 1.4328
+✅ Validation loss improved. Model saved.
+Epoch 3, Train Loss: 1.3627, Val Loss: 1.3066
+✅ Validation loss improved. Model saved.
+Epoch 4, Train Loss: 1.2470, Val Loss: 1.2613
+✅ Validation loss improved. Model saved.
+Epoch 5, Train Loss: 1.2013, Val Loss: 1.2037
+✅ Validation loss improved. Model saved.
+Epoch 6, Train Loss: 1.1840, Val Loss: 1.2365
+⚠️ Validation loss did not improve. Early stop count: 1/10
+Epoch 7, Train Loss: 1.0899, Val Loss: 1.2509
+⚠️ Validation loss did not improve. Early stop count: 2/10
+Epoch 8, Train Loss: 1.0638, Val Loss: 1.2285
+⚠️ Validation loss did not improve. Early stop count: 3/10
+Epoch 9, Train Loss: 1.0692, Val Loss: 1.1563
+✅ Validation loss improved. Model saved.
+Epoch 10, Train Loss: 1.0637, Val Loss: 1.2644
+⚠️ Validation loss did not improve. Early stop count: 1/10
+Epoch 11, Train Loss: 1.0489, Val Loss: 1.1641
+⚠️ Validation loss did not improve. Early stop count: 2/10
+Epoch 12, Train Loss: 1.0024, Val Loss: 1.1497
+✅ Validation loss improved. Model saved.
+Epoch 13, Train Loss: 0.9520, Val Loss: 1.1663
+⚠️ Validation loss did not improve. Early stop count: 1/10
+Epoch 14, Train Loss: 0.9554, Val Loss: 1.1384
+✅ Validation loss improved. Model saved.
+Epoch 15, Train Loss: 0.9763, Val Loss: 1.1334
+✅ Validation loss improved. Model saved.
+Epoch 16, Train Loss: 0.9246, Val Loss: 1.2278
+⚠️ Validation loss did not improve. Early stop count: 1/10
+Epoch 17, Train Loss: 0.9312, Val Loss: 1.1392
+⚠️ Validation loss did not improve. Early stop count: 2/10
+Epoch 18, Train Loss: 0.8907, Val Loss: 1.1380
+⚠️ Validation loss did not improve. Early stop count: 3/10
+Epoch 19, Train Loss: 0.9094, Val Loss: 1.1894
+⚠️ Validation loss did not improve. Early stop count: 4/10
+Epoch 20, Train Loss: 0.9152, Val Loss: 1.1037
+✅ Validation loss improved. Model saved.
+Epoch 21, Train Loss: 0.8659, Val Loss: 1.1561
+⚠️ Validation loss did not improve. Early stop count: 1/10
+Epoch 22, Train Loss: 0.8797, Val Loss: 1.1209
+⚠️ Validation loss did not improve. Early stop count: 2/10
+Epoch 23, Train Loss: 0.8303, Val Loss: 1.1376
+⚠️ Validation loss did not improve. Early stop count: 3/10
+Epoch 24, Train Loss: 0.8768, Val Loss: 1.1557
+⚠️ Validation loss did not improve. Early stop count: 4/10
+Epoch 25, Train Loss: 0.8727, Val Loss: 1.1138
+⚠️ Validation loss did not improve. Early stop count: 5/10
+Epoch 26, Train Loss: 0.8345, Val Loss: 1.1746
+⚠️ Validation loss did not improve. Early stop count: 6/10
+Epoch 27, Train Loss: 0.8519, Val Loss: 1.1318
+⚠️ Validation loss did not improve. Early stop count: 7/10
+Epoch 28, Train Loss: 0.8592, Val Loss: 1.0986
+✅ Validation loss improved. Model saved.
+Epoch 29, Train Loss: 0.8248, Val Loss: 1.0905
+✅ Validation loss improved. Model saved.
+Epoch 30, Train Loss: 0.8351, Val Loss: 1.1972
+⚠️ Validation loss did not improve. Early stop count: 1/10
+Epoch 31, Train Loss: 0.8349, Val Loss: 1.1485
+⚠️ Validation loss did not improve. Early stop count: 2/10
+Epoch 32, Train Loss: 0.8357, Val Loss: 1.1031
+⚠️ Validation loss did not improve. Early stop count: 3/10
+Epoch 33, Train Loss: 0.8151, Val Loss: 1.1751
+⚠️ Validation loss did not improve. Early stop count: 4/10
+Epoch 34, Train Loss: 0.8088, Val Loss: 1.1164
+⚠️ Validation loss did not improve. Early stop count: 5/10
+Epoch 35, Train Loss: 0.8007, Val Loss: 1.0944
+⚠️ Validation loss did not improve. Early stop count: 6/10
+Epoch 36, Train Loss: 0.8028, Val Loss: 1.1388
+⚠️ Validation loss did not improve. Early stop count: 7/10
+Epoch 37, Train Loss: 0.7884, Val Loss: 1.1807
+⚠️ Validation loss did not improve. Early stop count: 8/10
+Epoch 38, Train Loss: 0.7584, Val Loss: 1.2093
+⚠️ Validation loss did not improve. Early stop count: 9/10
+Epoch 39, Train Loss: 0.8051, Val Loss: 1.1717
+⚠️ Validation loss did not improve. Early stop count: 10/10
+⛔ Early stopping triggered.

@@ -1,0 +1,79 @@
+Epoch 1, Train Loss: 1.7345, Val Loss: 1.9238
+✅ Validation loss improved. Model saved.
+Epoch 2, Train Loss: 1.3203, Val Loss: 1.0905
+✅ Validation loss improved. Model saved.
+Epoch 3, Train Loss: 1.1039, Val Loss: 1.4180
+⚠️ Validation loss did not improve. Early stop count: 1/10
+Epoch 4, Train Loss: 1.0180, Val Loss: 1.1728
+⚠️ Validation loss did not improve. Early stop count: 2/10
+Epoch 5, Train Loss: 0.9361, Val Loss: 0.9462
+✅ Validation loss improved. Model saved.
+Epoch 6, Train Loss: 0.8560, Val Loss: 0.9730
+⚠️ Validation loss did not improve. Early stop count: 1/10
+Epoch 7, Train Loss: 0.7798, Val Loss: 0.9690
+⚠️ Validation loss did not improve. Early stop count: 2/10
+Epoch 8, Train Loss: 0.7418, Val Loss: 0.8783
+✅ Validation loss improved. Model saved.
+Epoch 9, Train Loss: 0.6778, Val Loss: 0.9124
+⚠️ Validation loss did not improve. Early stop count: 1/10
+Epoch 10, Train Loss: 0.6281, Val Loss: 0.8631
+✅ Validation loss improved. Model saved.
+Epoch 11, Train Loss: 0.6287, Val Loss: 1.0602
+⚠️ Validation loss did not improve. Early stop count: 1/10
+Epoch 12, Train Loss: 0.5917, Val Loss: 1.2447
+⚠️ Validation loss did not improve. Early stop count: 2/10
+Epoch 13, Train Loss: 0.5142, Val Loss: 0.8545
+✅ Validation loss improved. Model saved.
+Epoch 14, Train Loss: 0.5636, Val Loss: 0.8883
+⚠️ Validation loss did not improve. Early stop count: 1/10
+Epoch 15, Train Loss: 0.4807, Val Loss: 0.9050
+⚠️ Validation loss did not improve. Early stop count: 2/10
+Epoch 16, Train Loss: 0.4962, Val Loss: 1.0473
+⚠️ Validation loss did not improve. Early stop count: 3/10
+Epoch 17, Train Loss: 0.4798, Val Loss: 1.0303
+⚠️ Validation loss did not improve. Early stop count: 4/10
+Epoch 18, Train Loss: 0.4642, Val Loss: 0.9663
+⚠️ Validation loss did not improve. Early stop count: 5/10
+Epoch 19, Train Loss: 0.4558, Val Loss: 0.8676
+⚠️ Validation loss did not improve. Early stop count: 6/10
+Epoch 20, Train Loss: 0.4482, Val Loss: 1.3375
+⚠️ Validation loss did not improve. Early stop count: 7/10
+Epoch 21, Train Loss: 0.4544, Val Loss: 0.9284
+⚠️ Validation loss did not improve. Early stop count: 8/10
+Epoch 22, Train Loss: 0.3906, Val Loss: 0.7849
+✅ Validation loss improved. Model saved.
+Epoch 23, Train Loss: 0.4053, Val Loss: 0.8958
+⚠️ Validation loss did not improve. Early stop count: 1/10
+Epoch 24, Train Loss: 0.4075, Val Loss: 0.9137
+⚠️ Validation loss did not improve. Early stop count: 2/10
+Epoch 25, Train Loss: 0.3681, Val Loss: 0.8955
+⚠️ Validation loss did not improve. Early stop count: 3/10
+Epoch 26, Train Loss: 0.3703, Val Loss: 0.9558
+⚠️ Validation loss did not improve. Early stop count: 4/10
+Epoch 27, Train Loss: 0.3728, Val Loss: 0.8921
+⚠️ Validation loss did not improve. Early stop count: 5/10
+Epoch 28, Train Loss: 0.3584, Val Loss: 0.9077
+⚠️ Validation loss did not improve. Early stop count: 6/10
+Epoch 29, Train Loss: 0.3251, Val Loss: 0.7822
+✅ Validation loss improved. Model saved.
+Epoch 30, Train Loss: 0.3175, Val Loss: 0.8500
+⚠️ Validation loss did not improve. Early stop count: 1/10
+Epoch 31, Train Loss: 0.3422, Val Loss: 0.8617
+⚠️ Validation loss did not improve. Early stop count: 2/10
+Epoch 32, Train Loss: 0.3066, Val Loss: 0.9470
+⚠️ Validation loss did not improve. Early stop count: 3/10
+Epoch 33, Train Loss: 0.3533, Val Loss: 0.8512
+⚠️ Validation loss did not improve. Early stop count: 4/10
+Epoch 34, Train Loss: 0.3206, Val Loss: 0.9185
+⚠️ Validation loss did not improve. Early stop count: 5/10
+Epoch 35, Train Loss: 0.3400, Val Loss: 0.9184
+⚠️ Validation loss did not improve. Early stop count: 6/10
+Epoch 36, Train Loss: 0.3306, Val Loss: 0.8103
+⚠️ Validation loss did not improve. Early stop count: 7/10
+Epoch 37, Train Loss: 0.3341, Val Loss: 1.0291
+⚠️ Validation loss did not improve. Early stop count: 8/10
+Epoch 38, Train Loss: 0.3250, Val Loss: 0.8336
+⚠️ Validation loss did not improve. Early stop count: 9/10
+Epoch 39, Train Loss: 0.3385, Val Loss: 0.8280
+⚠️ Validation loss did not improve. Early stop count: 10/10
+⛔ Early stopping triggered.
