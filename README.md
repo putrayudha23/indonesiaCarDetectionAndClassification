@@ -53,8 +53,8 @@ https://universe.roboflow.com/telkom-university-xlloq/indonesia-vehicle
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/car-retrieval-system.git
-cd car-retrieval-system
+git clone https://github.com/putrayudha23/indonesiaCarDetectionAndClassification.git
+cd indonesiaCarDetectionAndClassification
 
 # Install all dependencies
 pip install -r requirements.txt
