@@ -1,3 +1,3 @@
-## 🎯 Training results for object detection provided in folder Yolo5_training_result
+## 🎯 The training results for object detection are available in the Yolo5_training_result folder.
 
-Yolo5_training_result contain weight and all figure, chart, and log of training
+Yolo5_training_result contains the weights and all the numbers, graphs and training logs.
