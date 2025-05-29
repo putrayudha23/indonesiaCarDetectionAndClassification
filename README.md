@@ -45,6 +45,8 @@ The best-performing detection configuration is **YOLOv5m with image augmentation
 See full list in [`requirements.txt`](./requirements.txt).
 
 ---
+### 📦 Yolov5
+https://github.com/ultralytics/yolov5.git
 
 ### 📦 Dataset for object detection
 https://universe.roboflow.com/telkom-university-xlloq/indonesia-vehicle
